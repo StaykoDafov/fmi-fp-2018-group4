@@ -61,7 +61,7 @@
 
 (define (prime? n)
   (define (prime-helper? i)
-    (cond [(> i (floor (sqrt n)))    #t]
+    (cond [(> i (integer-sqrt n))    #t]
           [(divisible? n i)    #f]
           [else (prime-helper? (+ i 1))]))
   (and (> n 1) (prime-helper? 2)))
