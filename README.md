@@ -11,4 +11,4 @@
 
 **Weeks**
 
-- [Week 3](https://github.com/bbsbb/fmi-fp-2018-group4/week-3/) - Digits, primes, starting to know lists.
+- [Week 3](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-3) - Digits, primes, starting to know lists.
