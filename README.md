@@ -12,3 +12,4 @@
 **Weeks**
 
 - [Week 3](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-3) - Digits, primes, starting to know lists.
+- [Week 4](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-4) - Pairs, quote, cons, list & first look at strings.
