@@ -18,4 +18,5 @@
 - [Week 7 (Racket)](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-7) - More andmap, matrices and a little bit of recursion.
 - [Week 8 (Haskell)](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-8) - Everything Haskell. Functional, strict, lazy, pattern match, list comprehension.
 - [Week 9 (Haskell)](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-9) - More lists, more generics, mergesort, helper functions.
-- [Week 10 (Haskell)](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-9) - Pattern matching & list comprehension.
+- [Week 10 (Haskell)](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-10) - Pattern matching & list comprehension.
+- [Week 11 (Haskell)](https://github.com/bbsbb/fmi-fp-2018-group4/tree/master/week-11) - Filter, map, folding all the things..
