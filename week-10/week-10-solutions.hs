@@ -31,6 +31,6 @@ isPrefix (x:xs) (y:ys) = (x == y) && isPrefix xs ys
 strContains :: String -> String -> Bool
 strContains (x:xs) [] = False
 strContains xs ys
-    | isPrefix xs ys = True
-    | substring xs (tail ys) = True
-    | otherwise = False
+  | isPrefix xs ys = True
+  | strContains xs (tail ys) = True
+  | otherwise = False
