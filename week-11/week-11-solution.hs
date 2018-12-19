@@ -16,7 +16,7 @@ countVowels :: String -> Int
 countVowels s = length $ (filter isVowel s)
 
 atLeastVowel :: [String] -> Int -> [String]
-atLeastVowel xs n = filter (\word -> countVowels word > n) xs
+atLeastVowel xs n = filter (\word -> countVowels word >= n) xs
 
 
 -- Exercise 2: Write a method accepting a list of 1 argument functions and returns another fn for their composed execution.
